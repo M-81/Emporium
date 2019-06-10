@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/07 22:43:22.000.095,=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/07 22:44:40.000.207,=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.pas</Transaction>
+    <Transaction>2019/06/07 22:45:32.000.456,C:\Users\marosio\Documents\Embarcadero\Studio\Projects\uEmporium.pas=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.pas</Transaction>
+    <Transaction>2019/06/07 22:45:32.000.456,C:\Users\marosio\Documents\Embarcadero\Studio\Projects\uEmporium.dfm=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.dfm</Transaction>
+    <Transaction>2019/06/07 22:45:39.000.073,C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.dproj=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/06/07 23:03:33.000.300,C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.dproj=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Emporium.dproj</Transaction>
+    <Transaction>2019/06/09 10:54:55.492,=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/09 10:55:14.919,C:\Users\marosio\Documents\Embarcadero\Studio\Projects\uUtils.pas=C:\Users\marosio\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
